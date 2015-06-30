@@ -1,2 +1,8 @@
 User-agent: *
 Disallow: /Mediator/google6afd919541d7b8e2.html
+
+User-agent: *
+Disallow: /Mediator/js/
+
+User-agent: *
+Disallow: /Mediator/css/
